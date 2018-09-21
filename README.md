@@ -12,6 +12,13 @@ Requer Python 3.6.6. Para instalar as dependências:
 pip install -r requirements.txt
 ```
 
+Para rodar os spiders, execute (requer Bash, mas pode ser executado em outros
+shells através do comando `scrapy runspider`):
+
+```bash
+./run.sh
+```
+
 
 ## Contribuindo
 
